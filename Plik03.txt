@@ -4,3 +4,4 @@ oraz
 Asystent pomocy
 Uproszczenie interfejsu
 Zmiana09
+Zmiana11
