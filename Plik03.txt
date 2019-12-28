@@ -5,3 +5,4 @@ Asystent pomocy
 Uproszczenie interfejsu
 Zmiana09
 Zmiana11
+Zmiana13
