@@ -3,3 +3,4 @@ Naprawa błędów - hotfix-001
 oraz
 Asystent pomocy
 Uproszczenie interfejsu
+Zmiana09
